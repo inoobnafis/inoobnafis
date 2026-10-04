@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/8a/75/f7/8a75f778943df43a9b9a69edb44dd92e.gif" width="200" style="border-radius: 15px;" />
+<a href="https://tenor.com/view/panda-animated-lazy-sleepy-cute-gif-16989383473028215941">
+<img src="https://media.tenor.com/7HjP62Yg04AAAAAj/panda-sleep.gif" width="200" style="border-radius: 15px;" alt="Panda Animated GIF" />
+</a>
 
 # Hi there, I'm Nafis 
 
 <p align="center">
-<a href="https://t.me/PandaStack"><img src="https://img.shields.io/badge/Channel-PandaStack-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/></a>
-<a href="https://t.me/NoobNafis"><img src="https://img.shields.io/badge/Telegram-NoobNafis-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ID"/></a>
-<a href="mailto:shahriarnafis69x@gmail.com"><img src="https://img.shields.io/badge/Email-shahriarnafis69x@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://t.me/PandaStack"><img src="https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Channel"/></a>
+<a href="#faq"><img src="https://img.shields.io/badge/FAQ-2CA5E0?style=for-the-badge&logo=readthedocs&logoColor=white" alt="FAQ"/></a>
 </p>
 
 <img src="https://i.pinimg.com/originals/82/c6/5b/82c65b9ba734604264622f67e5bbdb2c.gif" width="400" style="border-radius: 15px; margin: 20px 0;" />
@@ -29,12 +30,20 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=inoobnafis&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inoobnafis&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+<h3 id="faq">❓ FAQ</h3>
+
+**Who am I?**  
+I'm Nafis, a passionate developer focused on building awesome projects!
+
+**How to reach me?**  
+You can join my [Telegram Channel](https://t.me/PandaStack) or message me directly on my [Telegram ID](https://t.me/NoobNafis).
 
 <img src="https://i.pinimg.com/originals/18/84/02/188402f06859e2eb42a477d9c6692cd2.gif" width="200" style="border-radius: 15px; margin-top: 20px;" />
 
